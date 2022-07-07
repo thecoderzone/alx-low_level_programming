@@ -1,1 +1,1 @@
-this project is about finding bugs in C
+this project is about finding bugs in a a program
