@@ -15,6 +15,18 @@ int op_add(int a, int b)
 }
 
 /**
+ * op_sub - ...
+ * @a: ...
+ * @b: ...
+ *
+ * Return: ...
+ */
+int op_sub(int a, int b)
+{
+	return (a - b);
+}
+
+/**
  * op_sub - subtracts b from a
  * @a: first number
  * @b: second number
